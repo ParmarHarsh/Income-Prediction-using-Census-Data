@@ -1,10 +1,10 @@
 Income Prediction Using UCI Adult Dataset
 
-Introduction
+Introduction:
 This repository contains the code and notebook for a project focused on predicting whether an individual's income exceeds $50K/year based on census data from the UCI Adult dataset. 
 The project involves data preprocessing, exploratory data analysis, and training a Support Vector Machine (SVM) model.
 
-Dataset
+Dataset:
 The dataset used for this project is the Adult training dataset available at the UCI Machine Learning Repository. 
 The dataset includes various demographic attributes such as age, education, occupation, and income.
 
@@ -27,8 +27,8 @@ Implementation Details:
 8. Model Evaluation: Evaluated the model using classification_report and confusion matrix.
 9. Hyperparameter Tuning: Utilized GridSearchCV to find the best hyperparameters and performed additional train-validation-test splits.
 
-Results
+Results:
 The results of the model training and evaluation, including accuracy, precision, recall, F1-score, and confusion matrix, are provided in the notebook.
 
-Acknowledgments
+Acknowledgments:
 The dataset used is provided by the UCI Machine Learning Repository. Special thanks to Dr. Ruba Alomari for guidance and support.
